@@ -30,7 +30,7 @@ export default class Top extends React.Component {
             </select>
           </div>
         </div>
-        <div className="card-grid">
+        <div className="card-grid card-grid-res">
           <>
             {data[this.state.value].map(item => (
               <div className="card">
