@@ -1,0 +1,159 @@
+{
+  "tamilnadu": [
+    {
+      "name": "CHENNAI",
+      "image": "tn1.jpg"
+    },
+    {
+      "name": "MAHABALIPURAM",
+      "image": "tn2.jpg"
+    },
+    {
+      "name": "OOTY",
+      "image": "tn3.jpg"
+    },
+    {
+      "name": "PONDICHERRY",
+      "image": "tn4.jpg"
+    },
+    {
+      "name": "PERIYAR",
+      "image": "tn5.jpeg"
+    }
+  ],
+
+  "rajasthan": [
+    {
+      "name": "HAWA MAHAL",
+      "image": "rj8.png"
+    },
+
+    {
+      "name": "UDAIPUR",
+      "image": "rj2.jpg"
+    },
+    {
+      "name": "JAISALMER",
+      "image": "rj3.jpg"
+    },
+    {
+      "name": "JODHPUR",
+      "image": "rj5.jpg"
+    },
+    {
+      "name": "LAKE PICHOLA",
+      "image": "rj6.jpg"
+    },
+    {
+      "name": "CITY PALACE, JAIPUR",
+      "image": "rj7.jpg"
+    },
+
+    {
+      "name": "AMER FORT",
+      "image": "rj9.jpg"
+    },
+    {
+      "name": "CITY PALACE, UDAIPUR",
+      "image": "rj10.jpg"
+    },
+    {
+      "name": "FATEH SAGAR LAKE",
+      "image": "rj11.jpg"
+    },
+    {
+      "name": "PUSHKAR",
+      "image": "rj12.jpg"
+    }
+  ],
+  "kerala": [
+    {
+      "name": "MUNNAR",
+      "image": "kr1.jpeg"
+    },
+
+    {
+      "name": "ALLEPPEY",
+      "image": "kr2.jpeg"
+    },
+    {
+      "name": "THEKKADY",
+      "image": "kr3.jpg"
+    },
+    {
+      "name": "WAYANAD",
+      "image": "kr4.jpg"
+    },
+    {
+      "name": "VARAKALA",
+      "image": "kr5.jpg"
+    },
+    {
+      "name": "KOCHI",
+      "image": "kr6.jpg"
+    },
+
+    {
+      "name": "POOVAR",
+      "image": "kr7.jpg"
+    },
+
+    {
+      "name": "KOVALAM",
+      "image": "kr8.jpg"
+    },
+    {
+      "name": "KUMARAKORAM",
+      "image": "kr9.jpg"
+    },
+    {
+      "name": "WAYANAD",
+      "image": "kr10.jpg"
+    }
+  ],
+  "himachalpradesh": [
+    {
+      "name": "MANALI",
+      "image": "hp1.jpg"
+    },
+
+    {
+      "name": "LADHAK",
+      "image": "hp2.jpeg"
+    },
+    {
+      "name": "DHARAMKOT",
+      "image": "hp3.jpeg"
+    },
+    {
+      "name": "TRIUND",
+      "image": "hp4.jpeg"
+    },
+    {
+      "name": "MCLEODGANJ",
+      "image": "hp5.jpg"
+    },
+    {
+      "name": "SNOWLINE",
+      "image": "hp6.jpeg"
+    },
+
+    {
+      "name": "SHIMLA",
+      "image": "hp7.jpg"
+    },
+
+    {
+      "name": "SPITI VALLEY",
+      "image": "hp8.jpg"
+    },
+    {
+      "name": "KHURDUNG LA PASS",
+      "image": "hp9.jpeg"
+    },
+    {
+      "name": "DALHOUSIE",
+      "image": "hp10.jpg"
+    }
+  ]
+}
